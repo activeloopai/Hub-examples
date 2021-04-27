@@ -28,3 +28,7 @@ https://colab.research.google.com/github/activeloopai/Hub-examples/blob/new_note
 Stl10: \
 https://colab.research.google.com/github/activeloopai/Hub-examples/blob/new_notebooks/activeloop/stl10/ReadMe.ipynb \
 https://colab.research.google.com/github/activeloopai/Hub-examples/blob/new_notebooks/activeloop/stl10/ReadMe.ipynb 
+
+Plant Pathology 2021: \
+https://colab.research.google.com/github/activeloopai/Hub-examples/blob/new_notebooks/debadityapal/plant-patho/ReadMe.ipynb \
+https://colab.research.google.com/github/activeloopai/Hub-examples/blob/new_notebooks/debadityapal/plant-patho/ReadMe.ipynb 
